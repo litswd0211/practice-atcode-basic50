@@ -1,5 +1,3 @@
-# ABC219 - A
-
 X = int(input())
 
 if X < 40:
